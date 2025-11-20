@@ -73,13 +73,6 @@ It demonstrates practical knowledge of **database normalization, foreign key con
 - MySQL Workbench  
 - Excel (for sample data preparation)  
 
----
-
-## 🔗 Explore the Full Project  
-GitHub Repository: [https://github.com/Komerlasriram/Employee-Management-System-MySQL](https://github.com/Komerlasriram/Employee-Management-System-MySQL)  
-👤 Author: [Komerla Sriram](https://github.com/Komerlasriram)
-
----
 
 ## 🏷️ Hashtags  
 #MySQLProject #SQLPortfolio #DatabaseProject #SQLCaseStudy #DataDrivenSolutions #SQLDevelopment #MySQL #RelationalDatabase #SQLQueries #EmployeeManagementSystem
